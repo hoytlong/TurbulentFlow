@@ -1,0 +1,61 @@
+BOOK_ID,LIBRARIES,TITLE,AUTH_LAST,AUTH_FIRST,AUTH_DATES,PUBL_CITY,PUBLISHER,PUBL_DATE,SOURCE,NATIONALITY,GENRE
+50003,274,Bleak House,Dickens,Charles,1812-1871,London,Bradbury & Evans,1853,k,British,REALISM
+50004,120,Hard Times,Dickens,Charles,1812-1870,London,Bradbury & Evans,1854,k,British,REALISM
+50005,25,Middlemarch,Eliot,George,1819-1880,Edinburgh,W. Blackwood & Sons,1874,k,British,REALISM
+50006,163,Daniel Deronda,Eliot,George,1819-1880,New York,Harper & Bros,1876,k,British,REALISM
+336,77,The adventures of Huckleberry Finn,Twain,Mark,1835-1910,New York,P.F. Collier & Son,1885,g,American,REALISM
+315,102,Indian summer,Howells,William Dean,1837-1920,Boston; New York,Houghton Mifflin Co.,1885,g,American,REALISM
+4763,180,Rise of Silas Lapham,Howells,William Dean,1837-1920,Boston,Ticknor & Co,1885,k,American,REALISM
+4764,3,A Hazard of New Fortunes,Howells,William Dean,1837-1919,New York,Harper & Bros,1890,k,American,REALISM
+3433,87,The innocents abroad: or: The new pilgrims' progress,Twain,Mark,1835-1910,New York,Harper & Bros.,1911,g,American,REALISM
+1818,133,Roughing it,Twain,Mark,1835-1910,New York,Harper & Bros.,1899,g,American,REALISM
+901,153,Daisy Miller,James,Henry,1843-1916,New York,Harper & Bros.,1892,g,American,REALISM
+190,28,The American,James,Henry,1843-1916,London,Macmillan Co.,1883,g,American,REALISM
+86,56,The portrait of a lady,James,Henry,1843-1916,Boston,Houghton Mifflin Co.,1881,g,American,REALISM
+1457,147,What Maisie knew,James,Henry,1843-1916,Chicago; New York,H.S. Stone & Co.,1897,g,American,REALISM
+2050,138,The marrow of tradition,Chesnutt,Charles W.,1858-1932,Boston,Houghton Mifflin Co.,1901,g,American,REALISM
+50001,34,Sense and Sensibility,Austen,Jane,1775-1816,London,T. Egerton,1811,k,British,REALISM
+1732,51,The yellow wall paper,Gilman,Charlotte Perkins,1860-1935,Boston,"Small, Maynard",1899,g,American,REALISM
+2704,688,The house of mirth,Wharton,Edith,1862-1937,New York,Charles Scribner's Sons,1905,g,American,REALISM
+3439,503,Ethan Frome,Wharton,Edith,1862-1937,New York,Charles Scribner's Sons,1911,g,American,REALISM
+4506,539,The age of innocence,Wharton,Edith,1862-1937,New York; London,D. Appleton & Co.,1920,g,American,REALISM
+1884,154,Sister Carrie,Dreiser,Theodore,1871-1945,New York,"Doubleday, Page & Co.",1900,g,American,REALISM
+3352,218,Jennie Gerhardt,Dreiser,Theodore,1871-1945,New York; London,Harper & Bros.,1911,g,American,REALISM
+3480,264,The financier,Dreiser,Theodore,1871-1945,New York,Harper & Bros.,1912,g,American,REALISM
+3230,34,The green door,Freeman,Mary Eleanor Wilkins,1852-1930,New York,"Moffat, Yard & Co.",1910,g,American,REALISM
+1315,284,The country of the pointed firs,Jewett,Sarah Orne,1849-1909,Boston; Mass.; Cambridge,Houghton Mifflin Co.,1896,g,American,REALISM
+15,56,The Grandissimes,Cable,George Washington,1844-1925,New York,Charles Scribner's Sons,1880,g,American,REALISM
+1699,152,The awakening,Chopin,Kate,1850-1904,Chicago,H.S. Stone & Co.,1899,g,American,REALISM
+3957,48,"""The Outcasts of Poker Flat""",Harte,Bret,1836-1902,Calif.; San Francisco,Book Club of Californiaook Club of California,1916,g,American,REALISM
+1419,62,Frances Waldeaux,Davis,Rebecca Harding,1831-1910,New York,Harper & Bros.,1897,g,American,REALISM
+50007,,Great Expectations,Dickens,Charles,,,,1904,,British,REALISM
+50008,,Oliver Twist,Dickens,Charles,,,,1843,,British,REALISM
+50009,,The Mill on the Floss,Eliot,George,,,,1860,,British,REALISM
+50010,,Silas Marner,Eliot,George,,,,1880,,British,REALISM
+50011,,Life in the Iron Mills,Davis,Rebecca Harding,,,,,,American,REALISM
+50012,,Margret Howth,Davis,Rebecca Harding,,,,1862,,American,REALISM
+4883,,Tom Sawyer,Twain,Mark,,,,1881,,American,REALISM
+4884,,The Conjure Woman,Chesnutt,Charles W.,,,,1900,,American,REALISM
+4885,,The House Behind the Cedars,Chesnutt,Charles W.,,,,1901,,American,REALISM
+50013,,Vilette,Bronte,Charlotte,,,,1853,,British,REALISM
+50014,,Jane Eyre,Bronte,Charlotte,,,,1906,,British,REALISM
+50015,,Wuthering Heights,Bronte,Charlotte,,,,1848,,British,REALISM
+50016,,Shirley,Bronte,Charlotte,,,,1899,,British,REALISM
+50017,,Far from the Madding Crowd,Hardy,Thomas,,,,1895,,British,REALISM
+50018,,Tess of the d'Urbervilles,Hardy,Thomas,,,,1912,,British,REALISM
+50019,,Return of the Native,Hardy,Thomas,,,,1911,,British,REALISM
+4886,,The Odd Women,Gissing,George,,,,1893,,British,REALISM
+4887,,New Grub Street,Gissing,George,,,,1904,,British,REALISM
+4888,,The Nether World,Gissing,George,,,,1889,,British,REALISM
+4889,,Stories of Georgia,Harris,Joel Chandler,,,,,,American,REALISM
+50020,,Vanity Fair,Thackeray,William Makepeace,,,,1893,,British,REALISM
+50021,,Barry Lyndon,Thackeray,William Makepeace,,,,1886,,British,REALISM
+50022,,The Virginians,Thackeray,William Makepeace,,,,1859,,British,REALISM
+4890,,Confessions of a Young Man,Moore,George,,,,1906,,Irish,REALISM
+4891,,Esther Waters,Moore,George,,,,1917,,Irish,REALISM
+4892,,The Lake,Moore,George,,,,1905,,Irish,REALISM
+4893,,Main Traveled Roads,Garland,Hamlin,,,,1922,,American,REALISM
+50023,,The Eustace Diamonds,Trollope,Anthony,,,,1908,,British,REALISM
+50024,,The Warden,Trollope,Anthony,,,,1907,,British,REALISM
+50025,,The American Senator,Trollope,Anthony,,,,1877,,British,REALISM
+4894,,A Modern Instance,Howells,William Dean,,,,1909,,American,REALISM
